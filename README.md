@@ -40,9 +40,11 @@ Example
 Input
 
 Enter message: Maheswaricse
+
 Enter shift value: 2
 
 Output
 
 Encrypted Text: Ocjguyctkeug
+
 Decrypted Text: Maheswaricse
